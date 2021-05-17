@@ -1,2 +1,2 @@
 # Trippin-TheTravelApp
-The repository for everything related to Trippin application
+Trippin is going to be a travel application that will be used for several purposes which includes making travelling & exploring places more interesting, giving trippers some aim, target or mission to complete, providing them with the feeling of achievement & competition as if they’re a part of some real-life game, and also giving them a platform where they can interact with other trippers, plan their trips, & do much more.
